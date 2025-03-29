@@ -1,18 +1,9 @@
 # Python7_8
-New text
 
-New text 2
-
-New text 3
-
-New Text 4
-
-Feature1
-Feature2
-Feature3
-Feature4
-Hello
-Hello1
-Feature4
-Hello
-Hello1
+### Regex
+`Вступ до Web applications development/regex.py` - файл з регулярними виразами для Python.  
+У файлі зібрані приклади, які демонструють базові та просунуті можливості модуля `re`:
+- Використання квантификаторів, символьних класів, групування та альтернатив;
+- Функції `re.search`, `re.match`, `re.findall`, `re.sub`, `re.split`, `re.compile`;
+- Застосування прапорців, таких як `IGNORECASE`, `MULTILINE`, `DOTALL`, `VERBOSE`;
+- Приклади для перевірки електронної адреси, витягування номерів телефону, URL-адрес.
